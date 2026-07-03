@@ -28,6 +28,7 @@ I build things that actually work — from fine-tuning LLMs for query routing to
 | [AWS Face Recognition (Distributed)](https://github.com/NandanaVikraman/AWS-Distributed-Face-Recognition) | Multi-stage pipeline with sub-2s latency, extended to edge via IoT Greengrass and MQTT | AWS Lambda · SQS · ECR · MTCNN · FaceNet |
 | [AWS Face Recognition (Elastic)](https://github.com/NandanaVikraman/AWS-Elastic-Face-Recognition) | Autoscaling face recognition — sub-second response under 100 concurrent requests | AWS EC2 · S3 · SQS · SimpleDB |
 | [Disaster Relief Fund Management](https://github.com/NandanaVikraman/Disaster-Relief-Fund-Management-System) | Web platform for transparent management of disaster relief funds | HTML · JavaScript |
+| [AdaptLearn — Adaptive Project Generator](https://github.com/NandanaVikraman/LMS-AI) | AI-generated hands-on projects personalized to a student's coursework — hackathon project | React · TypeScript · Dexie · Groq (Llama 3.3) |
 
 ---
 
