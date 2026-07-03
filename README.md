@@ -24,7 +24,7 @@ I build things that actually work — from fine-tuning LLMs for query routing to
 | MRI Scan Time Reduction | 50% scan time reduction on brain perfusion data using custom deep learning architectures | PyTorch · ResED3D · VGG-Att3DUNet · DINO-TransRegNet |
 | [LLM-as-a-Judge](https://github.com/NandanaVikraman/LLM-as-a-Judge) | A/B benchmarking framework evaluating LLMs as judges for code summarization and translation | Python · HuggingFace |
 | Scalable Data Pipeline — Kubernetes & Kafka | Real-time streaming pipeline ingesting documents into Neo4j — scored 100/100 on test suite | Kafka · Kubernetes · Helm · Neo4j |
-| Graph Data Processing — Docker & Neo4j | Dockerized Neo4j with NYC Taxi ETL, PageRank and BFS via Neo4j GDS — scored 60/60 | Docker · Neo4j GDS · Python |
+| [Graph Data Processing — Docker & Neo4j](https://github.com/NandanaVikraman/Graph-Data-Processing-Neo4j) | Dockerized Neo4j with NYC Taxi ETL, PageRank and BFS via Neo4j GDS — scored 60/60 | Docker · Neo4j GDS · Python |
 | [AWS Face Recognition (Distributed)](https://github.com/NandanaVikraman/AWS-Distributed-Face-Recognition) | Multi-stage pipeline with sub-2s latency, extended to edge via IoT Greengrass and MQTT | AWS Lambda · SQS · ECR · MTCNN · FaceNet |
 | [AWS Face Recognition (Elastic)](https://github.com/NandanaVikraman/AWS-Elastic-Face-Recognition) | Autoscaling face recognition — sub-second response under 100 concurrent requests | AWS EC2 · S3 · SQS · SimpleDB |
 | [Disaster Relief Fund Management](https://github.com/NandanaVikraman/Disaster-Relief-Fund-Management-System) | Web platform for transparent management of disaster relief funds | HTML · JavaScript |
