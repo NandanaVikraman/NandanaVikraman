@@ -36,7 +36,7 @@ I build things that actually work — from fine-tuning LLMs for query routing to
 
 - 🎓 M.S. Computer Science @ ASU (2025–2027)
 - 💼 AI/ML Intern @ WMC Global (Summer 2026) — building MCP-layer integrations and screenshot interpretation pipelines
-- 🔬 Exploring LLMs applied to complex structured data
+- 📝 Research paper presented at AIHC 2025 (NIT Calicut) — awaiting Springer publication
 
 ---
 
