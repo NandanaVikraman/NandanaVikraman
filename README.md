@@ -21,7 +21,7 @@ I build things that actually work — from fine-tuning LLMs for query routing to
 |---|---|---|
 | [Adaptive Knowledge Router](https://github.com/adaptive-knowledge-router/adaptive-knowledge-router) | Routes NL queries to Neo4j KG or RAG pipeline — 93.2% accuracy, +3.8 quality gain over dense-RAG | DeBERTa · Neo4j · FAISS · Docker |
 | [Text2SQL via LLM-Modulo](https://github.com/NandanaVikraman/CSE573-Group27-Text2SQL) | Modular Text2SQL with 4 external verifiers — 35.49% execution accuracy on Spider benchmark | Qwen2.5 · Python |
-| MRI Scan Time Reduction | 50% scan time reduction on brain perfusion data using custom deep learning architectures | PyTorch · ResED3D · VGG-Att3DUNet · DINO-TransRegNet |
+| [MRI Scan Time Reduction](https://github.com/NandanaVikraman/mri-scan-time-reduction) | 50% scan time reduction on brain perfusion data using custom deep learning architectures | PyTorch · ResED3D · VGG-Att3DUNet · DINO-TransRegNet |
 | [LLM-as-a-Judge](https://github.com/NandanaVikraman/LLM-as-a-Judge) | A/B benchmarking framework evaluating LLMs as judges for code summarization and translation | Python · HuggingFace |
 | [Scalable Data Pipeline — Kubernetes & Kafka](https://github.com/NandanaVikraman/Scalable-Data-Pipeline-Kafka-Neo4j) | Real-time streaming pipeline ingesting documents into Neo4j — scored 100/100 on test suite | Kafka · Kubernetes · Helm · Neo4j |
 | [Graph Data Processing — Docker & Neo4j](https://github.com/NandanaVikraman/Graph-Data-Processing-Neo4j) | Dockerized Neo4j with NYC Taxi ETL, PageRank and BFS via Neo4j GDS — scored 60/60 | Docker · Neo4j GDS · Python |
